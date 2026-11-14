@@ -1,6 +1,6 @@
 <img src="./.github/workflows/lineBar.png" width="100%" height="6px"/>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=cauanmorais&show_icons=true&include_all_commits=true&theme=tokyonight" /> 
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=caMorJe&show_icons=true&include_all_commits=true&theme=tokyonight" /> 
   <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caMorJe&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 </div>
@@ -21,9 +21,9 @@
 </div> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauanmorais/cauanmorais/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauanmorais/cauanmorais/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cauanmorais/cauanmorais/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caMorJe/cauanmorais/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caMorJe/cauanmorais/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caMorJe/cauanmorais/output/github-contribution-grid-snake.svg">
 </picture>
 
 
